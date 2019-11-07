@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+data_set_3d
+images/*
+model/*
+__pycache__
+venv
+*.zip
